@@ -18,7 +18,7 @@ function Dashboard() {
           Dashbord
         </h1>
       </div>
-      <div style={{ display: "flex", flexDirection: "row", gap: "30px" }}>
+      <div style={{ display: "flex", flexDirection: "row", gap: "15px" }}>
         <div className="dash-conten" style={{ backgroundColor: "#6F62FF" }}>
           <div className="dash-box1">
             <div>
@@ -39,7 +39,7 @@ function Dashboard() {
                 alignItems: "center",
                 justifyContent: "center",
                 gap: "5px",
-                width: "260px",
+                width: "220px",
                 height: "29px",
                 backgroundColor: "#8C82FF",
                 opacity: "0.5",
@@ -70,7 +70,7 @@ function Dashboard() {
                 alignItems: "center",
                 justifyContent: "center",
                 gap: "5px",
-                width: "260px",
+                width: "220px",
                 height: "29px",
                 backgroundColor: "#AB6353",
                 opacity: "0.25",
@@ -101,7 +101,7 @@ function Dashboard() {
                 alignItems: "center",
                 justifyContent: "center",
                 gap: "5px",
-                width: "260px",
+                width: "220px",
                 height: "29px",
                 backgroundColor: "#FDA15F",
                 opacity: "0.5",
@@ -133,7 +133,7 @@ function Dashboard() {
                 alignItems: "center",
                 justifyContent: "center",
                 gap: "5px",
-                width: "260px",
+                width: "220px",
                 height: "29px",
                 backgroundColor: "#F3A6FD",
                 opacity: "0.5",
@@ -147,7 +147,7 @@ function Dashboard() {
       </div>
 
       {/* box-row2 */}
-      <div style={{ display: "flex", gap: "38px", marginTop: "40px" }}>
+      <div style={{ display: "flex", gap: "15px", marginTop: "20px" }}>
         <div className="dash-conten1" style={{ backgroundColor: "#1CC700" }}>
           <div className="dash-box2">
             <div>
@@ -169,7 +169,7 @@ function Dashboard() {
                 alignItems: "center",
                 justifyContent: "center",
                 gap: "5px",
-                width: "359px",
+                width: "305px",
                 height: "29px",
                 backgroundColor: "#20A50A",
                 opacity: "0.5",
@@ -202,7 +202,7 @@ function Dashboard() {
                 alignItems: "center",
                 justifyContent: "center",
                 gap: "5px",
-                width: "359px",
+                width: "305px",
                 height: "29px",
                 backgroundColor: "#05D0A0",
                 opacity: "0.5",
@@ -234,7 +234,7 @@ function Dashboard() {
                 alignItems: "center",
                 justifyContent: "center",
                 gap: "5px",
-                width: "359px",
+                width: "305px",
                 height: "29px",
                 backgroundColor: "#EFD000",
                 opacity: "0.5",
@@ -248,7 +248,7 @@ function Dashboard() {
       </div>
       <div
         style={{
-          backgroundColor: "blue",
+          backgroundColor: "white",
           width: "100%",
           height: "300px",
           marginTop: "50px",

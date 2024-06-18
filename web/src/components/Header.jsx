@@ -10,7 +10,7 @@ function Header() {
   //     setIsVisible(!isVisible);
   //   };
   return (
-    <div>
+    <div style={{ width: "1049px" }}>
       <div className="conten-header">
         <div>
           {/* <Menu onClick={handleToggle} /> */}
